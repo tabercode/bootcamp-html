@@ -40,12 +40,10 @@ git clone https://github.com/seu-usuario/html-bootcamp-landing.git
 ## 📦 Estrutura do Projeto
 
 ```
-html-bootcamp-landing/
+bootcamp-html/
 ├── index.html
 ├── README.md
-└── assets/
-    └── css/
-        └── style.css
+└── curso_html.html
 ```
 
 ## 🔍 Seções da Página
